@@ -166,7 +166,7 @@
       <nav class="container navbar ">
         <ul class="nav m-auto py-2">
           <li class="nav-item mx-3">
-            Cделано в&nbsp;рамках курса Flask с&nbsp;нуля на&nbsp;Stepik. 
+            
           </li>
         </ul>
       </nav>
