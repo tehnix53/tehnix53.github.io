@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -130,7 +129,7 @@
           <p class="pb-1 mb-1">Мне было бы интересно:</p>
           <ul class="list-unstyled mb-4">
             
-            </li>
+            
             <li class="d-flex align-items-center align-content-start m-2" style="line-height: 24px;">
               <span class="pr-1">
                 <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
